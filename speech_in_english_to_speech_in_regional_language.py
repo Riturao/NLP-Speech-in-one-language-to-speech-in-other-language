@@ -10,7 +10,7 @@
 # pip install googletrans
 # pip install pyAudio
 # pip install speechrecognition
-# !apt install libasound2-dev portaudio19-dev libportaudio2 libportaudiocpp0 ffmpeg  --------> not sure about this
+# !apt install libasound2-dev portaudio19-dev libportaudio2 libportaudiocpp0 ffmpeg  --------> not needed
 # pip install google-speech
 # pip install pyttsx3
 
