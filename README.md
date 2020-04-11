@@ -11,7 +11,7 @@ Speech recognition and conversion into speech of any other language
 # speechrecognition
 # google-speech ---->Google Speech is a simple multiplatform command line tool to read text using Google Translate TTS (Text To Speech) API.
 # pyttsx3  ---> pyttsx3 is a text-to-speech conversion library in Python. Unlike alternative libraries, it works offline, and is compatible with both Python 2 and 3.
-
+# playsound  -----> playing the mp3 sound
 
 
 # Installing them
@@ -21,7 +21,7 @@ pip install pyAudio
 pip install speechrecognition
 pip install google-speech
 pip install pyttsx3
-
+pip install playsound
 
 YOU CAN CHOOSE THE LANGUAGE OF INPUT AND OUTPUT.
 It needs internet connection to work.
